@@ -1,3 +1,5 @@
+# Example of usage
+
 import schemdraw
 import schemdraw.elements as elm
 from customFET import CustomPFet, CustomNFet
