@@ -1,3 +1,5 @@
+# Class definition of the elements
+
 from schemdraw.elements import Element
 from schemdraw.segments import Segment
 
